@@ -1,8 +1,8 @@
-x = 0 
+number = 0 
   
-while x >= 1 
+while number >= 0 
   
-  puts "GeeksforGeeks"
+  puts "#{number} SECOND(S)!" 
   x = x - 1
 #write your code here
 
